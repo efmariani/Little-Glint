@@ -56,6 +56,12 @@ Tipografía Principal:
 Paleta de colores:
 ![paleta](https://user-images.githubusercontent.com/97068460/184580764-82aec7ca-f25b-437e-a16d-4abf5daef537.jpg)
 
+Productos de ejemplo:
+![WhatsApp Image 2022-08-15 at 2 09 02 AM](https://user-images.githubusercontent.com/97068460/184581455-0bc12c6f-cb9f-4db5-8dac-69d6ffa9b4ec.jpeg)
+![WhatsApp Image 2022-08-15 at 2 09 04 AM](https://user-images.githubusercontent.com/97068460/184581460-e2bd5198-3705-4726-9321-4fdf60a0196e.jpeg)
+![WhatsApp Image 2022-08-15 at 2 09 03 AM (1)](https://user-images.githubusercontent.com/97068460/184581462-4da04e21-f197-4c79-a38f-c9a7267c4429.jpeg)
+![WhatsApp Image 2022-08-15 at 2 09 03 AM](https://user-images.githubusercontent.com/97068460/184581467-f7ff6944-d8c9-4426-8af4-ecbea2856096.jpeg)
+
 
 
 
